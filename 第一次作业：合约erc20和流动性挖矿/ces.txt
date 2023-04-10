@@ -1,0 +1,6 @@
+    private static String arbAddress = "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266";
+    private static String arbprivateKey = "ac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80";
+    private static String contractAddress = "0x912CE59144191C1204E64559FE8253a0e49E6548";
+    //自己的账号
+    private static String myAddress = "0xBEc0055e34AdE198A05245E7e79Fa09b94F86a78";
+    private static String myArbprivateKey = "0d534a4ada8d6080d069f83fc5d05bd280f6999c2a16f5c36239dbf56010f2fa";
